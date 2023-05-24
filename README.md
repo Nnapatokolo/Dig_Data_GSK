@@ -1,6 +1,6 @@
 # Dig_Data_GSK
 
-### Researchers at GSK have been working on an innovative family of drugs to help people with 
+Researchers at GSK have been working on an innovative family of drugs to help people with 
 solid tumours that continue to grow despite other treatments. A promising candidate, 
 Miraculon-B (a fake name, obviously!), has been making its way through our development 
 pipeline.
